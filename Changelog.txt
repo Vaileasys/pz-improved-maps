@@ -1,0 +1,11 @@
+V 0.2
+Vanilla Maps
+- replaced vanilla in-game maps: March Ridge Map, Riverside Map, Rosewood Map, West Point Map
+  - adding symbols to all and text for primary buildings to Riverside Map
+- added text for primary buildings to mod maps (Dixie Map, Scenic Grove Map)
+- minor adjustments to Crossroads Map
+- new mod cover image
+
+V 0.1
+Initial Release
+- added 3 new maps: Crossroads Map, Dixie Map, Scenic Grove Map

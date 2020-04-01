@@ -1,0 +1,27 @@
+module Base
+{
+	item CrossroadsMallMap
+	{
+		Type 		= Normal,
+		DisplayName 		= Crossroads Mall Map,
+		Icon 		= Map,
+		Weight 		= 0.1,
+		Map 		= media/ui/LootableMaps/crossroadsmallmap.png,
+	}
+	item DixieMap
+	{
+		Type 		= Normal,
+		DisplayName 		= Dixie Map,
+		Icon 		= Map,
+		Weight 		= 0.1,
+		Map 		= media/ui/LootableMaps/dixiemap.png,
+	}
+	item ScenicGroveMap
+	{
+		Type 		= Normal,
+		DisplayName 		= Scenic Grove Map,
+		Icon 		= Map,
+		Weight 		= 0.1,
+		Map 		= media/ui/LootableMaps/scenicgrovemap.png,
+	}
+}
